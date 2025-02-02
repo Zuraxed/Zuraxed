@@ -7,7 +7,7 @@ I specialize in backend development, with a strong focus on game development and
 
 - :video_game: **FiveM Development:** I actively create and optimize resources for FiveM servers, including frameworks like ESX and QB(X).
 - :computer: **Programming Languages:** [`Lua`](https://lua.org), [`Python`](https://python.org), [`C++`](https://cplusplus.com/), [`Java`](https://www.java.com/en/)  
-- :tools: **Frameworks & Tools:** Focused on open-source software, database design, and server-side optimization.  
+- 🧰 **Frameworks & Tools:** Focused on open-source software, database design, and server-side optimization.  
 - :seedling: **Learning:** Continuously exploring new technologies, from AI enhancements for RolePlay servers to cloud services and modern frameworks.  
 
 ### :bar_chart: Quick Statistics  
