@@ -15,7 +15,7 @@ I specialize in backend development, with a strong focus on game development and
 <table>
     <tr>
         <td style="padding=0;width=50%;">
-            <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=zuraxed&title_color=FB8C00&text_color=ffffff&bg_color=151515&hide_border=true&hide_title=true&show_icons=true&count_private=true" alt="basic info" />
+            <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=zuraxscripts&theme=transparent&title_color=FB8C00&text_color=ffffff&bg_color=151515&hide_border=true&hide_title=true&show_icons=true&count_private=true" alt="basic info" />
         </td>
     </tr>
 </table>  
